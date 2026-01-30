@@ -56,8 +56,8 @@ An end-to-end Excel analytics project analyzing Amazon last-mile delivery perfor
 - Add anomaly flags for extreme delays and outliers.
 
 ## 📸 Screenshots
-![Dashboard view 1](Screenshots/Screenshot%20(549).png)
-![Dashboard view 2](Screenshots/Screenshot%20(550).png)
+![Dashboard view 1](Screenshots/Screenshot%20(1).png)
+![Dashboard view 2](Screenshots/Screenshot%20(2).png)
 
 
 ## 👤 Author
